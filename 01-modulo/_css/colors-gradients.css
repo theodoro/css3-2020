@@ -1,0 +1,9 @@
+#cores{
+    width: 500px;
+    height: 400px;
+    background:linear-gradient(to right, red,blue, pink)
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+}

@@ -1,0 +1,15 @@
+#conteudo{
+    width: 400px;
+    height: 1200px;
+    background-color: #7CFC00;
+    position: relative;
+}
+#texto{
+    background-color: #FFD700;
+    width: 400px;
+    position: absolute;left: 0;top: 40px;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+}

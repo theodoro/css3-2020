@@ -1,0 +1,18 @@
+#exemplo{
+    width: 400px;
+    height: 200px;
+    background-color: red;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: linear;
+    transition-delay: 2s;
+}
+#exemplo:hover{
+    width: 300px;
+    height: 150px;
+    background-color: green;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+}

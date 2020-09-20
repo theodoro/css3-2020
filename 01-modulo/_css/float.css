@@ -1,0 +1,22 @@
+#base{
+    width: 800px;
+    height: 800px;
+    background-color: green;
+}
+#esquerda{
+    width: 400px;
+    height: 400px;
+    background-color: yellow;
+    float: left;
+}
+
+#direita{
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+    float:right;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+}
