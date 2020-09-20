@@ -1,0 +1,13 @@
+*{
+    font-size: 100%;
+}
+
+@font-face {
+    font-family: open_sans;
+    src:url(../_fonts/opensans-regular.woff);
+}
+
+p{
+    font-family: open_sans;
+    font-size: 2.5em; /* Valor padrão do navegador*/
+}

@@ -1,0 +1,11 @@
+*{
+    font-size: 100%;
+}
+
+p{
+    font-family: Hack,Times,"Times New Roman", serif;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 2.5em; /* Valor padrão do navegador*/
+}

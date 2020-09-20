@@ -1,0 +1,10 @@
+#conteudo{
+    background-color: red;
+    width: 500px;
+    height: 100px;
+    overflow: auto;
+}
+
+.p{
+    opacity: 0.5
+}
